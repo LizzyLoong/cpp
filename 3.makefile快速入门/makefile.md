@@ -23,6 +23,7 @@ make
 这是因为Makefile不认识这一串命令   
 也就是说，它不符合makefile的语法   
 这节课我们不教大家makefile语法，大家只需要简单的知道makefile能干嘛用就可以   
+我们以后也不会用很多makefile，而是用CMake   
 回到Makefile文件   
 我们把这个命令改成Makefile认识的格式   
 ```
