@@ -1,6 +1,10 @@
 #include<iostream>
 int main()
 {
-    printf("Helloworld");
+
+    std::cout<<"hello\n"<<"lizzy"<<std::endl<<"hello"<<std::endl<<"world"<<"\n";
+	// Lizzy
+    
     return 0;
 }
+
